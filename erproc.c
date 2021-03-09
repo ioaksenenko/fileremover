@@ -64,12 +64,11 @@ void Inet_pton(int af, const char *src, void *dst) {
 }
 
 
-int Remove(const char *file_name) {
+void Remove(const char *file_name) {
     int res = remove(file_name);
     if (res == -1) {
     	perror("remove faliled");
 	exit(EXIT_FAILURE);
     }
-    return res;
 }
 

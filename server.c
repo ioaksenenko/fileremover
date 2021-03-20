@@ -10,6 +10,10 @@
 
 int main() {
     int server = Socket(AF_INET, SOCK_STREAM, 0);
+    if (setsockopt(server, SOL_SOCKET, SO_REUSEADDR, &(int){1}, sizeof(int)) < 0) {
+        perror("setsockopt failed");
+        exit(EXIT_FAILURE);
+    }
     struct sockaddr_in addr = {0};
     addr.sin_family = AF_INET;
     addr.sin_port = htons(34543);

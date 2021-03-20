@@ -13,7 +13,7 @@ int main() {
     struct sockaddr_in addr = {0};
     addr.sin_family = AF_INET;
     addr.sin_port = htons(34543);
-    Inet_pton(AF_INET, "127.0.0.1", (struct sockaddr *) &addr.sin_addr);
+    Inet_pton(AF_INET, "192.168.98.100", (struct sockaddr *) &addr.sin_addr);
     Connect(fd, (struct sockaddr *) &addr, sizeof addr);
     char filename[256];
     printf("Enter the name of the file you want to delete: ");

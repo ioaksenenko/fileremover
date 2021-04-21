@@ -1,7 +1,7 @@
 #include "erproc.h"
 #include <sys/types.h>
 #include <sys/socket.h>
-#include <stdio.h> // для использования функции perror 
+#include <stdio.h>
 #include <stdlib.h> // для использования функции exit
 #include <unistd.h>
 #include <arpa/inet.h>

@@ -4,6 +4,7 @@
 #include <arpa/inet.h> // для использования функции htons, которая изменяет порядок байт порта от хоста к сети
 #include <unistd.h> // для использования функции read
 #include <string.h> // для использования функции strlen
+#include <stdio.h>
 #include "erproc.h"
 
 int main() {

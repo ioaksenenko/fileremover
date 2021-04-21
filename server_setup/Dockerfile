@@ -10,6 +10,6 @@ WORKDIR /home/fileremover
 
 RUN touch /etc/systemd/system/fileremover.service
 RUN echo "[Service]\nExecStart=/home/fileremover/server\nRestart=always" >> /etc/systemd/system/fileremover.service
-RUN systemctl start fileremover
+
 
 ENTRYPOINT ["/sbin/init"]

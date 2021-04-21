@@ -28,16 +28,20 @@ int main() {
     Bind(server, (struct sockaddr *) &addr, sizeof addr);
     // запускаем прослушивание входящий соединений
     // второй параметр указывает, сколько клиентов может ожидать в очереди
+    printf("Listening...\n");
     Listen(server, 5);
     // записываем в переменную размер адреса (понадобится для подключения клиента)
     socklen_t addrlen = sizeof addr;
     // принимаем клиента
     int client = Accept(server, (struct sockaddr *) &addr, &addrlen);
+    printf("Accepted client.\n");
     // буфер для хранения информации, переданной клиентом (имени удаляемого файла)
     char filename[256];
     // читаем то, что передал клиент в буфер
-    Read(client, filename, 256);
+    int nread = Read(client, filename, 256);
+    filename[nread] = '\0';
     // удаляем файл
+    printf("Deleting file '%s'\n", filename);
     Remove(filename);
     // объявляем буфер для хранения ответа от сервера
     char response[512];

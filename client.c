@@ -17,7 +17,7 @@ int main() {
     // указываем на какой порт будем стучаться
     addr.sin_port = htons(34543);
     // задаем IP адрес, к которому будем подключаться
-    Inet_pton(AF_INET, "127.0.0.1", (struct sockaddr *) &addr.sin_addr);
+    Inet_pton(AF_INET, "192.168.98.100", (struct sockaddr *) &addr.sin_addr);
     // подключаемся к созданному адресу
     Connect(client, (struct sockaddr *) &addr, sizeof addr);
     // создаем переменную для хранения имени файла, который будем удалять

@@ -5,5 +5,3 @@ services:
     build: .
     privileged: true
     command: /sbin/init
-    ports:
-      - "34543:34543"

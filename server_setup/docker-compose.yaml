@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  fileremover:
+    build: .
+    privileged: true
+    ports:
+      - "34543:34543"

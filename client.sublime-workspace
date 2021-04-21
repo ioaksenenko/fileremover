@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/c/fileremover/client_setup/Dockerfile",
+		"/F/txt/dev/docker-comands.txt",
+		"/F/txt/dev/git_commands.txt",
+		"/F/c/cryptanalysis/key.txt",
+		"/F/txt/passwords.txt",
+		"/F/c/fileremover/Dockerfile",
+		"/F/c/fileremover/server/docker-compose.yaml",
+		"/F/c/fileremover/server/Dockerfile",
+		"/C/Users/aio/Desktop/struct2_4.cpp",
+		"/C/Users/aio/Desktop/cryptanalysis-master/cryptanalysis/Main.c",
+		"/C/Users/aio/Desktop/ConsoleApplication1.cpp",
+		"/F/c/cryptanalysis/.gitignore",
+		"/C/Users/aio/Desktop/lab2.txt",
+		"/C/Users/aio/Desktop/group_data.sql",
+		"/C/Users/aio/Desktop/group_data_202103231553.sql",
+		"/C/Users/aio/Desktop/group_data_202103241332.json",
+		"/F/c/fileremover/client/docker-compose.yaml",
+		"/F/c/fileremover/client/Dockerfile",
+		"/C/Users/aio/.docker/machine/machines/server/config.json",
+		"/C/Users/aio/.docker/machine/machines/client/config.json",
+		"/C/Users/aio/Desktop/readme.txt",
+		"/F/txt/psych.txt",
+		"/F/py/dev/rostelecom/vk_api/main.py",
+		"/C/Users/aio/Desktop/fileremover/runme.sh",
+		"/C/Users/aio/Desktop/fileremover/docker-compose.yaml",
+		"/C/Users/aio/Desktop/fileremover/Dockerfile",
+		"/F/py/dev/home/weather/weather/Dockerfile",
+		"/C/Users/aio/Desktop/Dockerfile",
+		"/F/py/dev/home/weather/weather/docker-compose.yml",
+		"/F/py/dev/rostelecom/djangoproject/.gitlab-ci.yml",
+		"/F/py/dev/rostelecom/djangoproject/Dockerfile",
+		"/C/Users/aio/Desktop/ПАРОЛИ.txt",
+		"/C/Users/aio/Desktop/client-server/erproc.h",
+		"/C/Users/aio/Desktop/client-server/erproc.c",
+		"/C/Users/aio/Desktop/client-server/server.c",
+		"/C/Users/aio/Desktop/client-server/client.c",
+		"/C/Users/aio/Desktop/plot.log",
+		"/C/Users/aio/Desktop/pochti.c",
+		"/C/Users/aio/Desktop/Source3.c",
+		"/C/Users/aio/Desktop/linear/singly_linked_list.py",
+		"/F/py/dev/lismo/student_performance_prediction/data_analysis/exams.py",
+		"/F/py/dev/lismo/student_performance_prediction/data_analysis/e_df.json",
+		"/C/Users/aio/Desktop/VB/task_1.vbs",
+		"/C/Users/aio/Desktop/VB/task_2.vbs",
+		"/C/Users/aio/Desktop/VB/task_2_for_excel.vbs",
+		"/C/Users/aio/Desktop/VB/task_3.vbs",
+		"/C/Users/aio/AppData/Local/Temp/Temp1_fullPage.js-master.zip/fullPage.js-master/examples/fading-effect.html",
+		"/C/Users/aio/AppData/Local/Temp/Temp1_pagePiling.js-master.zip/pagePiling.js-master/examples/demoPage.html",
+		"/C/Users/aio/Desktop/VB/task_1.txt",
+		"/E/aio/edu/bachelor_of_science/disciplines/вычислительная математика/project/Computational Mathematics/Solving of equations in one variable/MethSolEquatInOneVar.cs",
+		"/E/aio/edu/bachelor_of_science/disciplines/вычислительная математика/project/Computational Mathematics/Solving of linear algebra problems/MethSolSysLinAlgEquat.cs",
+		"/E/aio/edu/bachelor_of_science/disciplines/вычислительная математика/project/Computational Mathematics/Solving of equations in one variable/Program.cs",
+		"/C/Users/aio/Desktop/hardcopy.log",
+		"/F/py/dev/home/tutor/users/views.py",
+		"/F/py/dev/home/tutor/tutor/views.py",
+		"/C/Users/aio/Documents/Klei/DoNotStarveTogether/896532394/client.ini",
+		"/C/Users/aio/Documents/Klei/DoNotStarve/settings.ini",
+		"/C/Users/aio/Desktop/AutoCAD_2020_Russian_Win_64bit_dlm/Keygen/ReadME.txt",
+		"/C/Users/aio/Desktop/SketchUp Pro 2020 20.0.363 RePack by KpoJIuK/README.txt",
+		"/C/Users/aio/AppData/Local/Temp/Temp1_fullPage.js-master.zip/fullPage.js-master/.gitignore",
+		"/C/Users/aio/AppData/Local/Temp/Temp1_fullPage.js-master.zip/fullPage.js-master/examples/parallax.html",
+		"/C/Users/aio/Desktop/favicon.svg",
+		"/C/Users/aio/AppData/Local/Temp/Temp1_fullPage.js-master.zip/fullPage.js-master/examples/continuous-vertical.html",
+		"/C/Users/aio/AppData/Local/Temp/Temp1_fullPage.js-master.zip/fullPage.js-master/examples/examples.css",
+		"/C/Users/aio/AppData/Local/Temp/Temp1_fullPage.js-master.zip/fullPage.js-master/examples/examples.js",
+		"/F/py/dev/rostelecom/djangoproject/.gitignore",
+		"/F/py/dev/rostelecom/djangoproject/requirements.txt",
+		"/F/txt/csgo_commands.txt",
+		"/C/Users/aio/Desktop/Readme.txt",
+		"/C/Program Files (x86)/gminer_2_28_windows64/mine_eth.bat",
+		"/C/Program Files/JetBrains/PyCharm 2020.2.3/bin/pycharm64.exe.vmoptions",
+		"/C/Users/Public/.jetbrains/jetbrains-agent-v3.2.0.de72.619",
+		"/C/Users/Public/.jetbrains/important.txt",
+		"/F/exe/JetBrains PyCharm Professional 2019.3.3/readme.txt",
+		"/C/Program Files/JetBrains/PyCharm 2019.3.3/bin/pycharm64.exe.vmoptions",
+		"/C/Users/aio/Desktop/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/aio/Desktop/Пароль.TXT",
+		"/C/Users/aio/AppData/Local/Temp/Temp1_JetBrains PyCharm Professional 2019.2.5.zip/Читать!!!.txt",
+		"/C/Program Files (x86)/gminer_2_28_windows64/mine_btg.bat",
+		"/C/Program Files (x86)/gminer_2_28_windows64/mine_ravencoin.bat",
+		"/C/Users/aio/Desktop/rvn.cmd",
+		"/C/Program Files (x86)/t-rex-0.17.3-win-cuda10.0/rvn.bat",
+		"/C/Program Files (x86)/t-rex-0.17.3-win-cuda10.0/btg.bat",
+		"/C/Users/aio/Desktop/gminer_2_28_windows64/mine_ravencoin.bat",
+		"/C/Users/aio/Desktop/gminer_2_28_windows64/mine_btg.bat",
+		"/C/Program Files (x86)/t-rex-0.17.3-win-cuda10.0/t-rex-help.txt",
+		"/C/Users/aio/Desktop/mine_btg.bat",
+		"/C/Users/aio/AppData/Roaming/BitcoinGold/bitcoingold.conf",
+		"/C/Users/aio/Desktop/btg.bat",
+		"/C/Program Files (x86)/t-rex-0.17.3-win-cuda10.0/RVN-2miners-hard.bat",
+		"/C/Users/aio/Desktop/t-rex-0.17.3-win-cuda10.0/RVN-2miners-hard.bat",
+		"/C/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/training.cfg",
+		"/C/Users/aio/Desktop/addition/addition/Program.cs",
+		"/C/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Tom Clancy's Rainbow 6 VEGAS 2/KellerGame/Config/PCKellerEngine.ini",
+		"/C/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Tom Clancy's Rainbow 6 VEGAS 2/Engine/Config/BaseEngine.ini",
+		"/F/py/dev/lismo/content_quality_analytics/templates/base.html",
+		"/F/py/dev/home/tutor/tutor/settings.py",
+		"/F/py/dev/lismo/content_quality_analytics/authentication/urls.py",
+		"/F/py/dev/lismo/content_quality_analytics/authentication/views.py",
+		"/F/py/dev/lismo/content_quality_analytics/analysis/views.py",
+		"/F/py/dev/lismo/content_quality_analytics/authentication/templates/authentication/login.html",
+		"/F/py/dev/lismo/content_quality_analytics/authentication/templates/authentication/register.html",
+		"/F/py/dev/home/tutor/tutor/urls.py",
+		"/F/py/dev/home/tutor/users/admin.py",
+		"/F/py/dev/home/tutor/users/apps.py",
+		"/F/py/dev/home/tutor/users/models.py",
+		"/F/py/dev/home/data_structures/linear/singly_linked_list.py",
+		"/F/py/dev/lismo/pandas/main.py",
+		"/F/py/dev/lismo/content_quality_analytics/.git/config",
+		"/C/Users/aio/Desktop/linear/queue.py",
+		"/C/Users/aio/Desktop/rt/app/pgsql/run.bat",
+		"/F/py/dev/lismo/content_quality_analytics/static/js/add-indicator.js",
+		"/F/py/dev/lismo/content_quality_analytics/static/js/common.js",
+		"/F/py/dev/lismo/content_quality_analytics/static/js/index.js",
+		"/C/Windows/Microsoft.NET/Framework/v4.0.30319/Config/machine.config",
+		"/C/Users/aio/AppData/Local/Temp/246c256a00c74bdeb8e88d7a9f/vs_bootstrapper_d15/vs_setup_bootstrapper.json",
+		"/C/Users/aio/AppData/Local/Temp/246c256a00c74bdeb8e88d7a9f/vs_bootstrapper_d15/vs_setup_bootstrapper.config",
+		"/C/Users/aio/AppData/Local/Temp/246c256a00c74bdeb8e88d7a9f/vs_bootstrapper_d15/detection.json",
+		"/C/Users/aio/AppData/Local/Temp/246c256a00c74bdeb8e88d7a9f/vs_bootstrapper_d15/vs_setup_bootstrapper.exe.config",
+		"/C/Users/aio/Desktop/home/autoexec.cfg",
+		"/C/Users/aio/Desktop/report_07.05.2020.txt",
+		"/C/Program Files (x86)/Steam/userdata/896532394/730/local/cfg/config.cfg",
+		"/F/py/dev/lismo/content_quality_analytics/.gitignore",
+		"/F/py/dev/lismo/content_quality_analytics/setup_database.txt",
+		"/C/Users/aio/Desktop/old_report.txt",
+		"/C/Users/aio/Desktop/test/branch4.1.txt",
+		"/C/Users/aio/Desktop/test/branch3.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "client.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

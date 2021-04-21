@@ -18,4 +18,8 @@ void Inet_pton(int af, const char *src, void *dst);
 
 void Remove(const char *file_name);
 
+void Setsockopt(int s, int level, int optname, const void *optval, socklen_t optlen);
+
+int Read(int fd, void *buf, unsigned count);
+
 #endif
